@@ -1,6 +1,6 @@
 # Computational-Decipherment-and-Cross-Linguistic-Analysis-of-Linear-A-Linear-B-and-Swahili
 
-**Repository for**:  
+**Repository for paper**:  
 "Computational Decipherment and Cross-Linguistic Analysis of Linear A, Linear B, and Swahili"
 
 ## Primary Goal
